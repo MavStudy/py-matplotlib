@@ -1,0 +1,3 @@
+Matplotlib: от А до Я
+
+https://otus.ru/journal/matplotlib-ot-a-do-ya/
